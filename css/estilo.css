@@ -1,0 +1,15 @@
+p {background: green; color: white;}
+  body{background: orange;}
+  #imgTaco{ border-radius: 50px; height: auto; }
+  #tituloReceta{text-decoration: underline; }
+  .div{text-align: center;}
+  .clase1 {background: green;
+            text-align:justify;}
+#listaIngredientes{background-color: red; color:white;font-size: 20px; }
+
+.receta{border-radius: 25px; background-color: green; font-family:sans-serif;
+      color: white;font-size: 15px;}
+.titulos{text-decoration:underline;text-align: center; color: red;}
+
+ul{font-size: 25; font-style: italic; font-weight: bold;}
+.division{background-color: white; border-radius: 50px;}
